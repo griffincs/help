@@ -17,7 +17,7 @@ topnav_dropdowns:
     - title: CS Help
       folderitems:
         - title: CS Help
-          url: /cs_landing_page.html
+          url: /index.html
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
 
