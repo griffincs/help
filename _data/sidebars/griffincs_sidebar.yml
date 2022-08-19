@@ -3,8 +3,8 @@
 
 entries:
 - title: Sidebar
-  product: Product1
-  version: 1.0
+  product: Computer Science Class
+  version: 3.0
   folders:
 
   - title:
@@ -23,40 +23,24 @@ entries:
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: Syllabus
+      url: /cs_landing_page.html
       output: web
 
-    - title: Sample 1
-      url: /p1_sample1.html
+    - title: Setup
+      url: /cs_setup.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /p1_sample2.html
-      output: web, pdf
-
-    - title: Sample 3
-      url: /p1_sample3.html
-      output: web, pdf
-
-  - title: Another heading
+  - title: Unit 1 - Python Intro
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
+    - title: Sample 2
+      url: /cs_sample2.html
       output: web, pdf
 
-    - title: Sample 5
-      url: /p1_sample5.html
-      output: web, pdf
-
-    - title: Sample 6
-      url: /p1_sample6.html
-      output: web, pdf
-
-    - title: Sample 7
-      url: /p1_sample7.html
+    - title: Sample 3
+      url: /cs_sample3.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
