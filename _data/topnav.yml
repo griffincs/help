@@ -8,7 +8,7 @@ topnav:
     - title: News
       url: /news
     - title: Faculty Help
-      url: /help_landing_page.html
+      url: /help.html
 
 #Topnav dropdowns
 topnav_dropdowns:
