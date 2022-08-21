@@ -1,7 +1,7 @@
 ---
-title: Griffin Computer Science
+title: Faculty Tech Help
 keywords: mydoc
-sidebar: griffincs_sidebar
+sidebar: faculty_sidebar
 toc: true
 permalink: index.html
 

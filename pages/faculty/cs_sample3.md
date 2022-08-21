@@ -2,9 +2,9 @@
 title: Sample 3 Topic (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: griffincs_sidebar
+sidebar: faculty_sidebar
 permalink: cs_sample3.html
-folder: griffincs
+folder: faculty
 ---
 
 ## Sample Content

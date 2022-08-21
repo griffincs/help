@@ -7,19 +7,17 @@ topnav:
       external_url: https://griffincs.github.io/
     - title: News
       url: /news
-    - title: Faculty Help
-      url: /help.html
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: CS Help
-      folderitems:
-        - title: CS Help
-          url: /index.html
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
+#topnav_dropdowns:
+#- title: Topnav dropdowns
+#  folders:
+#    - title: CS Help
+#      folderitems:
+#        - title: CS Help
+#          url: /index.html
+#        - title: Jekyll Documentation Theme
+#          url: /mydoc_introduction.html
 
 
 # Copyright 2021 Google LLC

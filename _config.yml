@@ -1,12 +1,12 @@
-repository: griffincs/help
+repository: mrkoenen/faculty
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Griffin CS
+topnav_title: Petra Tech Help
 # this appears on the top navigation bar next to the home button
 
-site_title: Griffin CS
+site_title: Petra Tech Help
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Copyright 2022
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Griffin CS
+feedback_subject_line: Petra Tech Help
 
 feedback_email: tech@petraacademy.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -102,8 +102,7 @@ defaults:
 sidebars:
 - home_sidebar
 - mydoc_sidebar
-- griffincs_sidebar
-- help_sidebar
+- faculty_sidebar
 - other
 
 description: "Tech documentation site for Griffin CS."
