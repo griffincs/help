@@ -70,7 +70,22 @@ entries:
     - title: Troubleshooting
       url: /printing_troubleshooting.html
       output: web, pdf
-      
+
+  - title: MacBooks (coming soon)
+    output: web, pdf
+    folderitems:
+
+#    - title: Installing Printer Drivers
+#      url: /printing_drivers.html
+#      output: web, pdf
+
+  - title: Apple TVs (coming soon)
+    output: web, pdf
+    folderitems:
+
+#    - title: Installing Printer Drivers
+#      url: /printing_drivers.html
+#      output: web, pdf
 
 
 # Copyright 2021 Google LLC
