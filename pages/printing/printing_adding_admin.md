@@ -17,7 +17,7 @@ Petra has two printers, the Admin Printer and the Elementary Printer. The instal
 4. In the "Address:" field, we need to add the IP address of the printer. Enter **192.168.17.40**.
 5. For "Protocol:", select "Line Printer Daemon - LPD".
 6. In the "Name:" field, enter **"Petra Admin Printer"**.
-7. Click the dropdown menu for "Use:", and click on "Select Software..." In the menu that opens, type "5250" in the search box. Select the **Canon iR-ADV C5250/5255** printer and click "OK".
+7. Click the dropdown menu for "Use:", and click on "Select Software..." In the menu that opens, type "5850" in the search box. Select the **Canon iR-ADV C5840/5850** printer and click "OK".
 8. Click "Add" to add this printer to the Printers list on your computer.
 
 <br/>
