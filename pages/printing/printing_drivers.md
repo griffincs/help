@@ -12,7 +12,7 @@ folder: printing
 To install the printer drivers for the Petra printers, you'll need the following:
 1. Your printer code (a 4-digit number from the Business Manager).
 2. A computer connected to the Faculty wifi network.
-3. The printer driver software should be in your Downloads folder. If it is not there, download it from [this link](https://downloads.canon.com/bicg2022/drivers/UFRII_V10.19.12_Mac.zip). Once it's downloaded, double-click the file to unzip it.
+3. Download the printer driver software from [this link](https://downloads.canon.com/bicg2022/drivers/UFRII_V10.19.12_Mac.zip). Once it's downloaded, double-click the file to unzip it.
 
 ## Installing the Driver
 1. Open the driver installation file. Then double-click the file named "UFRII_LT_LIPS_LX_Installer.pkg".
