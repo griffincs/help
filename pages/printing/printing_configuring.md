@@ -20,7 +20,7 @@ The last step is to configure the printer so you can use all its features and pr
 6. Click "Save Settings" and then close this menu.
 7. **If you are configuring the Elementary Printer, stop here and print a test page from this printer. If you are configuring the Admin Printer, continue to the next steps.**
 8. Click the "Options" tab.
-9. In the dropdown menu for "Output Options:", select "Booklet Finisher J1".
+9. In the dropdown menu for "Output Options:", select "Paper Finishing/Booklet Finisher A1".
 10. In the dropdown menu for "Puncher:", select "2/3 Holes".
 11. Click "OK".
 12. You have finished configuring the Admin Printer. This printer will only print correctly for you if you print in Black and White. Use the steps below to print in black and white and set up a printing preset to do this automatically.

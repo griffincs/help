@@ -67,6 +67,10 @@ entries:
       url: /printing_bw.html
       output: web, pdf
 
+    - title: Printing a Booklet
+      url: /printing_booklet.html
+      output: web, pdf
+
     - title: Troubleshooting
       url: /printing_troubleshooting.html
       output: web, pdf
