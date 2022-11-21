@@ -75,7 +75,7 @@ entries:
       url: /printing_troubleshooting.html
       output: web, pdf
 
-  - title: MacBooks (coming soon)
+  - title: MacBooks
     output: web, pdf
     folderitems:
 
